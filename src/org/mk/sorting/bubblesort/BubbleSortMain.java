@@ -1,8 +1,5 @@
 package org.mk.sorting.bubblesort;
 
-
-import java.util.Arrays;
-
 public class BubbleSortMain {
 
     public static void main(String[] args) {
